@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/victorsann/Prompt/assets/61476935/63e89b1c-98bf-4cfb-9dee-96dbff6fb146" style="height: 200px; width:200px">
+  <img src="https://github.com/victorsann/Prompt/assets/61476935/63e89b1c-98bf-4cfb-9dee-96dbff6fb146">
 </div>
 		
 <h2>Comandos Básicos</h2>
