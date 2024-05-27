@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cmder.net/img/logo.svg">
+  <img src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png">
 </div>
 		
 <h2>Comandos Básicos</h2>
@@ -31,7 +31,6 @@
 <h6><b>Listar todos diretórios com data e hora de criação</b></h6>
 
     dir
-
 
 <h2>Arquivos</h2>
 
