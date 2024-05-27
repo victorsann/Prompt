@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" style="height: 300px; width:300px">
+<div align="left">
+  <img src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" style="height: 200px; width:200px">
 </div>
 		
 <h2>Comandos Básicos</h2>
